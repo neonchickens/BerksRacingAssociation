@@ -2,6 +2,7 @@
 
 1. Default setups must be used.
 1. Do not abuse the lack of physical damage for lap time or position.
+1. Ignore all flags
 1. When nearing the pit entrance, if you are near the front of the bot pack, you must pit.
     * DO NOT TAKE A LAP OF CLEAN AIR OUT IN FRONT!
     * This does not change your race outcome, only your track position.
